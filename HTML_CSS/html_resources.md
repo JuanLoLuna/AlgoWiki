@@ -40,6 +40,15 @@
 
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
+## CSS Frameworks
+--------
+* [Bulma](http://bulma.io/)
+* [Pure](https://purecss.io/)
+* [Kube](https://imperavi.com/kube/)
+* [Vuetify](https://vuetifyjs.com/)
+* [Materialize](http://materializecss.com/)
+* [Skeleton](http://getskeleton.com/)
+
 
 Learn through games
 --------
